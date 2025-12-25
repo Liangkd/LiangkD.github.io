@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student | Traffic Safety & Multimodal Learning
+subtitle: PhD Student | Multimodal Large Language Model & Autonomous Vehicle & Traffic Safety
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: back_image.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Stony Brook University</p>
