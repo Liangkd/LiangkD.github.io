@@ -440,10 +440,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-crashchat-released-a-multitask-framework-for-traffic-crash-video-analysis-code-https-github-com-liangkd-crashchat-paper-https-arxiv-org-abs-2512-18878",
+            },},{id: "news-crashchat-released-a-multitask-framework-for-traffic-crash-video-analysis-code-https-github-com-liangkd-crashchat-paper-https-arxiv-org-abs-2512-18878",
           title: '🚀 CrashChat released — A multitask framework for traffic crash video analysis. Code:...',
           description: "",
           section: "News",},{id: "projects-project-1",
