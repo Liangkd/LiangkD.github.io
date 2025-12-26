@@ -493,7 +493,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/Kaidi_Liang_CV_12_23_2025.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -514,7 +514,7 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/", "_blank");
+          window.open("https://orcid.org/0009-0001-9129-2744", "_blank");
         },
       },{
         id: 'social-rss',
